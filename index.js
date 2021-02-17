@@ -4,6 +4,6 @@ var specialGuest = "Neil deGrasse Tyson"
 
 var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
-var topic = "chicken";
+var topic = "chicken.";
 
-var conversation = `Let\'s talk about ${topic}`;
+var conversation = `Let's talk about ${topic}`;
